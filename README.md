@@ -42,4 +42,4 @@ O projeto segue as seguintes etapas obrigatórias:
 
 * **Linguagem:** Python
 * **Bibliotecas:** `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn`
-* **Google Colab / Jupyter Notebook** 
+* **Ambiente:** Google Colab / Jupyter Notebook
